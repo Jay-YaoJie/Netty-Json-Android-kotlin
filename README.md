@@ -152,7 +152,7 @@ class MsgHandler : ChannelHandlerAdapter() {
 
 /**
  * @author: Jeff <15899859876@qq.com>
- * @date:  2018-02-05 16:54
+ * @date:  2018-05-021 16:54
  * @description: netty连接类
  * 1.Netty Client启动的时候需要重连
  * 2.在程序运行中连接断掉需要重连。
